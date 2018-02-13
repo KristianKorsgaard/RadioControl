@@ -1,0 +1,8 @@
+RadioControl	KEYWORD1
+begin	KEYWORD2
+enablePower	KEYWORD2
+disablePower	KEYWORD2
+togglePower	KEYWORD2
+enableCommunication	KEYWORD2
+disableCommunication	KEYWORD2
+toggleCommunication	KEYWORD2
